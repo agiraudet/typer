@@ -2,9 +2,9 @@
 A small program offering to mesure your typing speed.
 
 ## Usage
-./typer <dictionary>
+`./typer dictionary`
 
-<dicctionary> should be a text file with one word per line.
+`dicctionary` should be a text file with one word per line.
 If no file is given, the program will try to read from `/usr/share/dict/words`
 
 Press Escape to end the session.
